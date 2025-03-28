@@ -1,0 +1,142 @@
+{
+  "name": "Aquamarine Dream",
+  "description": "A soothing aquamarine themed design.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#0066CC",
+      "#005BB5"
+    ],
+    "HEADER_SECONDARY": [
+      "#0099CC",
+      "#0088B5"
+    ],
+    "NORMAL_TEXT": [
+      "#FFFFFF",
+      "#E0E0E0"
+    ],
+    "TEXT_MUTED": [
+      "#B0E0E6",
+      "#A0C4D0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00BFFF",
+      "#00A3E0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#1E90FF",
+      "#1A78B7"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#0D74C3",
+      "#0B5A99"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#66CDAA",
+      "#58BDA1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#E0FFFF",
+      "#C0E0E0"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#B0E0E6",
+      "#A0C4D0"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#A4D3E2",
+      "#94B8C7"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#D1EEEE",
+      "#B0E0E6"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#AFEEEE",
+      "#A0D1D1"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#E0FFFF",
+      "#D0E0E0"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#B0E0E6",
+      "#A0C4D0"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#A4D3E2",
+      "#94B8C7"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#E0FFFF",
+      "#D0E0E0"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(0, 150, 255, 0.1)",
+      "hsla(0, 0%, 0%, 0.05)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(0, 150, 255, 0.15)",
+      "hsla(0, 0%, 0%, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0.00)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#00BFFF",
+      "hsla(0, 0%, 0%, 0.0)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 150, 255, 0.1)",
+      "#B0E0E6"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#E0FFFF",
+      "#C0E0E0"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#B0E0E6",
+      "#A0C4D0"
+    ],
+    "TEXT_LINK": [
+      "#00BFFF",
+      "#00A3E0"
+    ],
+    "KEYBOARD": [
+      "#0066CC",
+      "#005BB5"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#005BB5",
+    "PRIMARY_DARK_100": "#004B99",
+    "PRIMARY_DARK_200": "#003B7A",
+    "PRIMARY_DARK_300": "#002B5D",
+    "PRIMARY_DARK_360": "#001F4D",
+    "PRIMARY_DARK_400": "#001A3D",
+    "PRIMARY_DARK_500": "#00152A",
+    "PRIMARY_DARK_600": "#000E1A",
+    "PRIMARY_DARK_630": "#000A14",
+    "PRIMARY_DARK_700": "#00050E",
+    "PRIMARY_DARK_800": "#00020A",
+    "BRAND_NEW": "#00BFFF",
+    "STATUS_RED": "#FF4500",
+    "STATUS_GREEN_600": "#32CD32",
+    "YELLOW_STATE": "#FFD700"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#A0A0A0"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://i.pximg.net/img-original/img/2020/10/23/20/43/12/85190610_p0.jpg",
+    "alpha": 1.0
+  }
+}
